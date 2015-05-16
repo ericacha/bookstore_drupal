@@ -9,13 +9,20 @@ the only admin and user to create new book reviews.
 Setup Instructions
 ------------------
 
-1. Database name: erica_bookstore
-2. Username: ericacha  | Password: cha
+1. Git glone https://github.com/ericacha/bookstore_drupal.git
+2. Sign into MAMP and connect to project folder
+3. Go to http://localhost:8888/MAMP/
+4. Click on Tools/phpMyAdmin
+5. Select erica_bookstore tab on the left
+6. Click Import
+7. Select sql file in sites folder
+8. Database name: erica_bookstore
+9. Username: ericacha  | Password: cha
 
-Drupal Site Maintenance login/password
+10. Drupal Site Maintenance login/password
 ----------------------------------------
-3.  Username: ericacha   | Password: cha
-4.  Authenticated user: Reviewer  | Password: cha
+ Username: ericacha   | Password: cha
+ Authenticated user: Reviewer  | Password: cha
 
 
 
