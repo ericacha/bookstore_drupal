@@ -1,19 +1,25 @@
-####Bookstore
-##By Erica Cha | May 15th, 2015
+Bookstore
+---------
+
+By Erica Cha | May 15th, 2015
 
 This app contains a Book review content, displays the name of the book, author and ratings. Allows
 the only admin and user to create new book reviews.
 
-####Setup Instructions
+Setup Instructions
+------------------
+
 1. Database name: erica_bookstore
 2. Username: ericacha  | Password: cha
-#Drupal Site Maintenance
+
+Drupal Site Maintenance login/password
+----------------------------------------
 3.  Username: ericacha   | Password: cha
- 4.  Authenticated user: Reviewer  | Password: cha
- 
+4.  Authenticated user: Reviewer  | Password: cha
 
 
-####Copyright © 2015 Erica Cha
+
+Copyright © 2015 Erica Cha
 
 
 CONTENTS OF THIS FILE
