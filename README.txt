@@ -4,7 +4,7 @@ Bookstore
 By Erica Cha | May 15th, 2015
 
 This app contains a Book review content, displays the name of the book, author and ratings. Allows
-the only admin and user to create new book reviews.
+the admin and user to create new book reviews and see specical announcements.
 
 Setup Instructions
 ------------------
