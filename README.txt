@@ -24,6 +24,8 @@ Setup Instructions
  Username: ericacha   | Password: cha
  Authenticated user: Reviewer  | Password: cha
 
+ 11. To view through pantheon: http://live-ericasbookstore.pantheon.io/
+
 
 
 Copyright © 2015 Erica Cha
